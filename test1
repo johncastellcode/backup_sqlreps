@@ -1,0 +1,42 @@
+[33mcommit e136c9a405e817873e8b62a563ac019f748d433a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 3c43466 4a6db90
+Author: John Castillo Tellez <john.castillot@brinks.com>
+Date:   Wed Apr 15 19:45:40 2020 -0500
+
+    Merge branch 'cabecera'
+
+[33mcommit 3c43466010370d68776e52190b9813ad49047cdb[m
+Author: John Castillo Tellez <john.castillot@brinks.com>
+Date:   Wed Apr 15 19:42:39 2020 -0500
+
+    Final de texto Test master
+
+[33mcommit 4a6db90d1693ed4d3a29e5a81a329b490ea96d43[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: John Castillo Tellez <john.castillot@brinks.com>
+Date:   Wed Apr 15 19:39:51 2020 -0500
+
+    finished the cabecera with new message
+
+[33mcommit 422682b3140099733514ea0f60c3af5da6121ef0[m
+Author: John Castillo Tellez <john.castillot@brinks.com>
+Date:   Wed Apr 15 17:46:05 2020 -0500
+
+    Estructura inicial de la cabecera
+
+[33mcommit 87f20752c2eb1686ee7f828ffd3bc332f51fd873[m
+Author: John Castillo Tellez <john.castillot@brinks.com>
+Date:   Wed Apr 15 17:19:17 2020 -0500
+
+    commit al masterfile del testcopy_latest ver
+
+[33mcommit 500f1c5761a2fea2635768757ca064d149564d02[m
+Author: John Castillo Tellez <john.castillot@brinks.com>
+Date:   Tue Apr 14 00:17:30 2020 -0500
+
+    updated the regards
+
+[33mcommit 0307911b47e8d6f071c9479c1efff232d0a30f53[m
+Author: John Castillo Tellez <john.castillot@brinks.com>
+Date:   Tue Apr 14 00:13:46 2020 -0500
+
+    Deutsche Text

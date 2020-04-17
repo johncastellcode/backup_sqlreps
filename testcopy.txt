@@ -1,0 +1,14 @@
+Privet Lyude
+
+Ich heiBe John und dir?
+
+Ich komme aus Kolumbia, ich wohne in Bogota.
+
+-----expected picture
+
+Liebe Fraulin, und kinder, Vater und Muter.
+-----
+
+Hinzugefugt eine neuer linie
+
+Danke schone
